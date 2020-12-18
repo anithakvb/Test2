@@ -1,0 +1,105 @@
+Dashboards: 
+------------
+	1. Dashboard is graphical representation of report.
+	
+	2. Dashboard can be created on Summary and Matrix report .
+	
+	3. We have eleven types of  Dashboard components.
+	
+		a. Horizental Bar Chart 
+		
+		b. Vertical  Bar chart 
+		
+		c. Line Chart 
+		
+		d. Pie Chart 
+		
+		e. Donut Chart 
+		
+		f. Funnel Chart 
+		
+		g. Scattered Chart 
+		
+		h. VF 
+		
+		i. Metrix 
+		
+		j. Table 
+		
+		k. Guage 
+		
+	4. Steps to create dashboard .
+	
+		Setup
+			|---Dashboard	
+					|---New Dashboard 
+					
+		Step 1: Choose the components
+		
+		Step 2: Choose the Source Report .
+		
+		Step 3: Choose the running user .
+		
+	5. Dynamic Dashboard : 
+		
+			Dashboard's can created as logged in user or Specific user which we call
+			as dynamic dashboard 
+			
+			We can only create 5 Dynamic dashboards
+	
+	5. Dashboards are save to a folder .
+	
+	6. We can only add 20 components on a single dashboard.
+	
+	
+	7. How to display the dashboards on home page ?
+	
+		Setup
+		 |---Build 
+				|---Customize 
+						|---Home  
+							 |---Home PageLayout
+										|---Edit 
+											 |---Enable Dashboard Snapshot
+											 
+											 
+	Dashboard Permissions : 
+	----------------------
+	
+	1. Create and Customize Dashboard  : This permission is required to create or manage 
+										 dashboard.
+										 
+	2. Create Dashboard folder 		   : Users who have this permission they can create 
+										 new dashboard custom folder .
+										 
+										 
+	3.View Dashboards in public Folder : Users with  permission can view the dashboards 
+										 which in the public folder .
+
+												
+	4. Manage Dashboards in public Folder:  Users with permission can create/Edit/Delete 
+											the dashbords in public Folder.
+											
+											
+	5. Edit my Dashboards				 :  Users with this permission can create /edit their 
+											own dashboards.
+											
+	6. Manage All Private Reports and Dashboards : Users with permission can create/Edit/Delete				
+											private reports and dashboards.
+											
+											
+	7. Manager Dynamic Dashboard		: users with permission can create /Edit/ Delete 
+										  dynamic Dashboards
+										  
+	8. Drag and drop Dashboard Builder  : Users with this permission can see dashboard builder
+										  page.
+										  
+	9.View My Team's Dashboards			: user with this permission can view dashbords 
+										  of the team he belongs to .
+	
+	
+	
+	
+	
+	
+	
